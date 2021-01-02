@@ -2,8 +2,13 @@
 Memory Game is a game created using Kotlin which lets the user play a memory game where you need to select two consecutive card of the same type out of a grid of unfolded card. 
 This game is a good way of improvising one's memory with a good play.
 
+![Screenshot](ReadmeImage.png)
+![Screenshot 2](ReadmeImage2.png)
+
 ## What's more? 
-Well, more than just playing, you can add your own image card here. Isn't it great? 
+You can even customize the size of your game. Also, Well, more than just playing, you can add your own image card here. Isn't it great? 
+
+![Screenshot 3](ReadmeImage1.png)
 
 ## Contributing
 There are lots of improvements possible in the game and I'm open to any changes. Simply fork this repo and raise an issue and I would be happy to assign you.
